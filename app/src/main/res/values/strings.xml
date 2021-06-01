@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="name">Luca\nVan Genechten</string>
+    <string name="nameOccupation">Student at Thomas More</string>
+    <string name="loremIpsum">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Deleniti dicta distinctio dolore ex facere fuga ipsum minima obcaecati odit officia perferendis quibusdam, repudiandae temporibus ut, voluptas.
+        Ea laborum magnam praesentium.</string>
+    <string name="loremIpsum2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Doloremque eius labore quos voluptatibus?
+        Accusamus aut deserunt dignissimos, dolor doloremque harum iusto modi odio placeat quidem similique tenetur velit vero.
+        Architecto consectetur delectus eligendi facilis in iure natus nemo odio, possimus praesentium repellat saepe sapiente tempore, unde vitae!
+        Facere facilis mollitia quod sunt totam?
+        Aliquam animi architecto consequatur cumque doloribus earum, fuga hic illum labore natus nihil non praesentium, similique tenetur.</string>
+    <string name="currentJob">Current job</string>
+    <string name="computer_science_diploma">Computer Science Diploma</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="professional_experience">Professional Experience</string>
+    <string name="my_portfolio">My Portfolio</string>
+    <string name="student_at_thomas_more_geel">Student at Thomas More geel</string>
+    <string name="peepeepoopoo">PeepeePoopoo</string>
+    <string name="ecoverTitle">IT HELPDESK • ECOVER MALLE • JANUARY 2018 \– FEBRUARY 2018</string>
+    <string name="ecover">As a student, I helped out with designing a new user interface for the company\'s SAP system, as well as help with different aspects of the IT helpdesk, such as solving software issues, correctly installing hardware and maintaining servers.
+        Besides this, I also helped with transferring Ecover\'s online working environment from on\-premise to the cloud.</string>
+    <string name="carrefourTitle">CASHIER AND STOCK • CARREFOUR VORSELAAR • JULY 2016 \– AUGUST 2016</string>
+    <string name="carrefour">My tasks were mostly serving customers at the cash register, refilling the racks, retrieving products from the stock and arrange them.</string>
+    <string name="luytenTitle">IT SPECIALIST • HOUT LUYTEN MORKHOVEN • AUGUST 2020 \- NOW</string>
+    <string name="luyten">I helped with the company\'s transfer from SDP to SAP.
+        Currently I am still employed at Hout Luyten as a temporary replacement for their IT specialist.</string>
+    <string name="koshTitle">HIGH SCHOOL DIPLOMA IT &amp; Networking • 2018 • KOSH COLLEGE HERENTALS</string>
+    <string name="kosh">In the year 2017\-2018 I graduated wit a high school diploma in IT &amp; Networking at kOsh College Herentals.</string>
+    <string name="kdgTitle">2 YEARS OF APPLIED COMPUTER SCIENCE KDG ANTWERPEN</string>
+    <string name="kdg">During 2018\-2019 and 2019\-2020 I studied applied computer science at Karel de Grote college in Antwerp.</string>
+    <string name="mijn_motivatie">My motivation</string>
+    <string name="mijn_motivatie_desc">
+        The biggest motivation for my dreamjob is finding a job where I can feel good.
+        I have been studying IT for the past 5 years and it is truly something I love doing.
+        During my time at Hout Luyten and Ecover I have learned that I would like to continue in this direction, but preferrably somewhere I can be myself.
+        I believe Thomas More can give me this chance.
+        Ever since I switched from Karel de Grote to Thomas More, I\'ve felt better and I\'ve regained my joy for IT.
+    </string>
+    <string name="student_history">My student life begun at Karel de Grote college in Antwerp.
+        Here I spent 2 years of my life studying applied computer science.
+        Afterwards, I transferred to Thomas More in Geel, where I started over with a clean slate in the IT Factory.</string>
+    <string name="mijn_ontwikkelingsplan_desc">
+
+    </string>
+    <string name="mijn_ontwikkelingsplan_title">My Personal Development Plan</string>
+</resources>
